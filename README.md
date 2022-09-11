@@ -1,6 +1,11 @@
 <div>
 <h2> 𝐇𝐞𝐥𝐥𝐨, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/Deepam4u/Deepam4u/blob/95aa49ea33875b12bfed610041ca053cd7e9f4a3/hello.gif" width="96"></h2>
 </div>
+<br>
+
+<div align="center">
+<img src="https://github.com/raghavk16/raghavk16/blob/master/octo.gif" alt="GitHub Logo" width="150" height="150" />
+</div>
 
 <i>Follow me around the web:</i><br>
 
