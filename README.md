@@ -9,10 +9,10 @@
 <br>
 
 ## Hey! 👋
-I'm a Web Developer Enthusiast from India❤️.
+I'm a Full-Stack Developer from India❤️.
 <br>
 
-- 🌱 I’m currently learning **Frontend Dev** and practising **DSA** in **Java**
+- 🌱 I’m currently learning **MERN Stack** and practising **DSA** in **Java**
 
 - 💻 I’m looking to collaborate on **an Open Source Project**
 
