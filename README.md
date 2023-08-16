@@ -1,5 +1,5 @@
 <div>
-<h2> <img src="https://github.com/Deepam4u/Deepam4u/blob/95aa49ea33875b12bfed610041ca053cd7e9f4a3/hello.gif" width="96"> 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/></h2>
+<h2> <img src="https://github.com/Deepam4u/Deepam4u/blob/95aa49ea33875b12bfed610041ca053cd7e9f4a3/hello.gif" width="96"> <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/></h2>
 </div>
 <br>
 
